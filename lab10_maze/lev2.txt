@@ -1,0 +1,11 @@
+15 10
+XXXXXXXXXXXXXXX
+XoooooooooooX#X
+XoooXXXXXXXoXoX
+XoooooooooXoooX
+XXXXXXXXXoXXXXX
+XoooooooooXo@oX
+XoXXXoXXXoXoooX
+XXXoooooXXXoooX
+XoooooooooooooX
+XXXXXXXXXXXXXXX

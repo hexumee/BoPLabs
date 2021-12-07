@@ -1,0 +1,8 @@
+Zagolovok
+a b b
+b a b
+a
+ab
+abb
+b b a
+a
